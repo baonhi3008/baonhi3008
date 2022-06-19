@@ -15,41 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@s3751881 
-eddiejaoude
-/
-eddiejaoude
-Public
-Code
-Issues
-15
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-eddiejaoude/README.md
 
-blog-post-bot Updated with the latest blog posts
-Latest commit cfae51d 18 days ago
- History
- 19 contributors
-@github-actions@eddiejaoude@sangeetagupta2068@krishdevdb@adityaraute@ShoaibKakal@SashoStoichkov@abhint@AnkushSinghGandhi@Vyvy-vi@nirban256@cpjworks
-61 lines (51 sloc)  3.64 KB
+
 
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiejaoude/eddiejaoude)
 
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
 
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out on Videos and Live streams 🎥</p>
+<p align="center">Hi there, My name is Bao Nhi, I’m a final year student in Information Technology at RMIT university Vietnam. I’m accountable, hard-working and aim to make something bigger than me. I am highly interested in project management and business analysis. Currently, I have been researching and learning many courses related to business analysis, which make me even more want to develop deeper understanding about these areas.  </p>
+
+———— Technical experience ————
+• My interest areas in Technology are AI applications and researches, Automation Software QA, and IT Business Analysis. More practical projects are available on my Github, please feel free to take a look. 
+
+<ul>  In 2021 I started my position as Technical Service Support Specialist at Skedulo - company that provide Human Management applications and software. <li><strong> My responsbilities </strong></li> 
+- Supporting the technical customer support team to investigate the error and solve customer application's technical issue. 
+- Conduct testing on current product including SalesForces, web application and mobile application to verify the error. 
+- Finding solution to the issue from client. Working with the developer team to fix bug if any. 
+- Communicate with client to make sure that the support team is fully understand the issue and deliver the expected outcome for the client.
+</ul> 
+
+• In 2022, I started working as IT consultant for Net company, my main work was Salesforces Manual Tester. I performed unit test on about-to-release function, I also wrote test case for features in Salesforce platform. 
+
+• I had experience working as an assistant for Women Meet Tech - a project that encourages girls/women to engage more in Technology. 
+• I was Team Leader in RMIT Neotech club in IT department, the university club that encourages student to improve their soft and hard skills by taking part in different activities including projects and workshops. 
+• In 2020 October, I participated in RIVF International conference on computing and communication technology as volunteer and participant. 
+
 
 - 🌟 Part of the <a href="https://stars.github.com/profiles/eddiejaoude/"> GitHub Stars program</a>
 - 🟩 Join our inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!
@@ -67,54 +57,3 @@ Latest commit cfae51d 18 days ago
     <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Eddie Jaoude's YouTube channel"/>
   </a>
 </p>
-
----
-
-### Latest YouTube videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Create these web dev projects to get a JOB](https://www.youtube.com/watch?v=Tge_nBFZEAs)
-- [Coding on LinkFree project open source GitHub alternative to LinkTree](https://www.youtube.com/watch?v=0qRcDJy0bDw)
-- [How to get more GitHub STARS for your Open Source repo as a maintainer](https://www.youtube.com/watch?v=HCXT3tBW3sU)
-- [Is web development saturated &lpar;web dev&rpar;](https://www.youtube.com/watch?v=f64HiGe0S58)
-- [GITHUB Organisation customise for members and non members &lpar;OPEN SOURCE&rpar;](https://www.youtube.com/watch?v=_uuH0IlFodA)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
----
-
-### Testimonials
-
-<table>
-  <tr>
-    <th>Author</th>
-    <th>Message</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
-  </tr>
-</table>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
