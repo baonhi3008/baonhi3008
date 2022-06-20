@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/EddieHubCommunity/Branding/raw/main/community/Eddie_banner_GIF.gif" /></a>
+<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/s3751881/s3751881/blob/main/Nhi%20Github%20Banner.gif" /></a>
 
 ### <h2> <img src= "https://i.giphy.com/media/gC0niXlkHAQJdaqM8r/giphy.webp" width ="60"> Hi, My name is Bao Nhi! <img src ="https://media4.giphy.com/media/x9VToNSeo1SZ5ubv2z/giphy.gif?cid=ecf05e47shjjvcuavbt7sumr6itmurlkiwv8ffee6wk1xktu&rid=giphy.gif&ct=s" width = "50"></h2>
 
