@@ -62,11 +62,20 @@ In the work, I developed more than 6 models from basic to advanced with 3 main a
 <li> Language used: <img src ="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"> <img src ="https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=Sklearn"> </li>
 </ul>
 
+<h4> Building big data pipeline with Docker, Kafka and Cassandra <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h4>
+<h5> <a href = "https://github.com/s3751881/Building-Big-Data-pipeline-with-Docker-Kafka-Cassandra-Faker-API)](https://github.com/s3751881/Building-Big-Data-pipeline-with-Docker-Kafka-Cassandra-Faker-API"> </a></h5>
+In this work, I have deployed an end-to-end data pipeline on your local computer using Docker containerized Kafka (data streaming), Cassandra (NoSQL database) and Jupyter Lab (data analysis Visualization). This wrok is intended to give practical experience with a simple big data stack and data pipeline.
+<ul>
+  
+<li> Language used: <img src ="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"> <img src ="https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=Sklearn"> </li>
+</ul>
 
 
 <h2> <img src ="https://media4.giphy.com/media/x9VToNSeo1SZ5ubv2z/giphy.gif?cid=ecf05e47shjjvcuavbt7sumr6itmurlkiwv8ffee6wk1xktu&rid=giphy.gif&ct=s" width = "50">Professional Technical Experience <img src ="https://media4.giphy.com/media/x9VToNSeo1SZ5ubv2z/giphy.gif?cid=ecf05e47shjjvcuavbt7sumr6itmurlkiwv8ffee6wk1xktu&rid=giphy.gif&ct=s" width = "50"> </h2>
 <h4> Technical Support Specialist 4/2021 - 6/2022</h4> 
-<ul>  In 2021 I started my position as Technical Service Support Specialist at Skedulo - company that provide Human Management applications and software. <li><strong> My responsibilities </strong></li> 
+In 2021 I started my position as Technical Service Support Specialist at Skedulo - company that provide Human Management applications and software.
+<ul>  
+<li><strong> My responsibilities </strong></li> 
   
 - Supporting the technical customer support team to investigate the error and solve customer application's technical issue. 
   
@@ -78,9 +87,11 @@ In the work, I developed more than 6 models from basic to advanced with 3 main a
   
 </ul> 
 <h4> Salesforces Manual Tester 11/2021 - 3/2022 </h4>
-<ul> 
 In November 2021, I started working as IT consultant for Net company, my main work was Salesforces Manual Tester. 
+<ul> 
+  
  <li> <strong> My responsibilities </strong> </li>
+  
  - Conducting unit test on ready-to-release function and feature.  
   
  - Writing test case for features in Salesforce platform. 
